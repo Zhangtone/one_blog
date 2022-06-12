@@ -5,8 +5,8 @@ name: one_blog
 on:
   push:
     branches:
-      - master
-      # - main
+      # - master
+      - main
 
 # 工作流
 jobs:
