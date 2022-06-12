@@ -1,5 +1,5 @@
 import { defineConfig } from 'dumi';
-const repo = 'one_blog'; // 项目名
+const repo = 'oneBlog'; // 项目名
 export default defineConfig({
   title: repo,
   mode: 'site',
